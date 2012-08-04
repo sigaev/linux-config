@@ -8,10 +8,10 @@ tgz_scripts=github.com/sigaev/linux-scripts/tarball/HEAD
 git_root=git://github.com/sigaev/linux-root
 git_root_ssh=git@github.com:sigaev/linux-root
 git_prg="
-git://github.com/sigaev/programs-cryptmount
-git://github.com/sigaev/programs-disper
-git://github.com/sigaev/programs-fonts-windows
-git://github.com/sigaev/programs-nbd
-git://github.com/sigaev/programs-nvidia
-git://github.com/sigaev/programs-switch-root
+git://github.com/sigaev/cryptmount
+git://github.com/sigaev/disper
+git://github.com/sigaev/fonts-windows
+git://github.com/sigaev/nbd
+git://github.com/sigaev/nvidia
+git://github.com/sigaev/switch-root
 "
