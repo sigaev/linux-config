@@ -8,6 +8,7 @@ tgz_scripts=github.com/sigaev/linux-scripts/tarball/HEAD
 git_root=git://github.com/sigaev/linux-root
 git_root_ssh=git@github.com:sigaev/linux-root
 git_prg="
+git://github.com/sigaev/aws
 git://github.com/sigaev/cryptmount
 git://github.com/sigaev/disper
 git://github.com/sigaev/fonts-windows
