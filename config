@@ -2,7 +2,7 @@
 mount=/mnt
 user=sigaev
 name='Dmitry Sigaev'
-cfg=sigaev.com/programs/linux/settings
+cfg=s3.amazonaws.com/sigaev/linux/settings
 tgz_portage=github.com/funtoo/portage/tarball/gentoo.org
 tgz_scripts=github.com/sigaev/linux-scripts/tarball/HEAD
 git_root=git://github.com/sigaev/linux-root
