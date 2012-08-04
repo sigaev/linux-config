@@ -1,13 +1,17 @@
+. $arch
 mount=/mnt
-portage=github.com/funtoo/portage/tarball/gentoo.org
 user=sigaev
 name='Dmitry Sigaev'
 cfg=sigaev.com/programs/linux/settings
-prg="
-git://$host/programs/cryptmount
-git://$host/programs/disper
-git://$host/programs/fonts-windows
-git://$host/programs/nbd
-git://$host/programs/nvidia
-git://$host/programs/switch-root
+tgz_portage=github.com/funtoo/portage/tarball/gentoo.org
+tgz_scripts=github.com/sigaev/linux-scripts/tarball/HEAD
+git_root=git://github.com/sigaev/linux-root
+git_root_ssh=git@github.com:sigaev/linux-root
+git_prg="
+git://github.com/sigaev/programs-cryptmount
+git://github.com/sigaev/programs-disper
+git://github.com/sigaev/programs-fonts-windows
+git://github.com/sigaev/programs-nbd
+git://github.com/sigaev/programs-nvidia
+git://github.com/sigaev/programs-switch-root
 "
