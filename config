@@ -3,16 +3,17 @@ mount=/mnt
 user=sigaev
 name='Dmitry Sigaev'
 cfg=s3.amazonaws.com/sigaev/linux/settings
-tgz_portage=https://github.com/funtoo/portage/tarball/gentoo.org
-tgz_scripts=https://github.com/sigaev/linux-scripts/tarball/HEAD
+mail=www@sigaev.com
 git_root=git://github.com/sigaev/linux-root
 git_root_ssh=git@github.com:sigaev/linux-root
-git_prg="
-git://github.com/sigaev/aws
-git://github.com/sigaev/cryptmount
-git://github.com/sigaev/disper
-git://github.com/sigaev/fonts-windows
-git://github.com/sigaev/nbd
-git://github.com/sigaev/nvidia
-git://github.com/sigaev/switch-root
+tgz_portage=https://github.com/funtoo/portage/tarball/gentoo.org
+tgz_scripts=https://github.com/sigaev/linux-scripts/tarball/HEAD
+tgz_prg="
+https://github.com/sigaev/aws/tarball/HEAD
+https://github.com/sigaev/cryptmount/tarball/HEAD
+https://github.com/sigaev/disper/tarball/HEAD
+https://github.com/sigaev/fonts-windows/tarball/HEAD
+https://github.com/sigaev/nbd/tarball/HEAD
+https://github.com/sigaev/nvidia/tarball/HEAD
+https://github.com/sigaev/switch-root/tarball/HEAD
 "
