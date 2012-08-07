@@ -2,7 +2,7 @@
 mount=/mnt
 user=sigaev
 name='Dmitry Sigaev'
-cfg=s3.amazonaws.com/sigaev/linux/settings
+cfg=http://s3.amazonaws.com/sigaev/linux/settings
 mail=www@sigaev.com
 git_root=git://github.com/sigaev/linux-root
 git_root_ssh=git@github.com:sigaev/linux-root
