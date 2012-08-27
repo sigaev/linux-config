@@ -11,8 +11,8 @@ tgz_scripts=https://github.com/sigaev/linux-scripts/tarball/HEAD
 tgz_prg="
 https://github.com/sigaev/aws/tarball/HEAD
 https://github.com/sigaev/cryptmount/tarball/HEAD
-https://github.com/sigaev/disper/tarball/HEAD
 https://github.com/sigaev/fonts-windows/tarball/HEAD
+https://github.com/sigaev/helper/tarball/HEAD
 https://github.com/sigaev/nbd/tarball/HEAD
 https://github.com/sigaev/nvidia/tarball/HEAD
 https://github.com/sigaev/switch-root/tarball/HEAD
