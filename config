@@ -7,6 +7,7 @@ mail=www@sigaev.com
 git_root=git://github.com/sigaev/linux-root
 git_root_ssh=git@github.com:sigaev/linux-root
 tgz_portage=https://github.com/funtoo/portage/tarball/gentoo.org
+txz_portage=mirror.mcs.anl.gov/pub/gentoo/releases/snapshots/current/portage-latest.tar.xz
 tgz_scripts=https://github.com/sigaev/linux-scripts/tarball/HEAD
 tgz_prg="
 https://github.com/sigaev/aws/tarball/HEAD
