@@ -1,5 +1,4 @@
 . $arch
-mount=/mnt
 user=sigaev
 name='Dmitry Sigaev'
 cfg=http://s3.amazonaws.com/sigaev/linux/settings
